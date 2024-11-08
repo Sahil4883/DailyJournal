@@ -8,7 +8,6 @@ Welcome to DailyJournal, a personal project to log and keep track of my daily ac
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
